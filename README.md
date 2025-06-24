@@ -13,7 +13,7 @@ Always learning, always evolving.
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook" />
 </a>
 <a href="https://twitter.com/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" />
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X" />
 </a>
 <a href="https://github.com/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
