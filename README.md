@@ -10,11 +10,11 @@ Always learning, always evolving.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=Facebook" />
+  <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook" />
 </a>
-<a href="https://twitter.com/abramlskxciv" target="_blank">
+<a href="https://x.com/abramlskxciv" target="_blank">
   <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X" />
 </a>
 <a href="https://github.com/abramlskxciv" target="_blank">
-  <img src="https://img.shields.io/badge/-grey?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
 </a>
