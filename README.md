@@ -9,15 +9,12 @@ Always learning, always evolving.
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=Facebook" />
 </a>
-
 <a href="https://twitter.com/abramlskxciv" target="_blank">
   <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X" />
 </a>
-
 <a href="https://github.com/abramlskxciv" target="_blank">
   <img src="https://img.shields.io/badge/-grey?style=for-the-badge&logo=github" />
 </a>
