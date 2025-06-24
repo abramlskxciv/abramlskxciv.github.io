@@ -5,12 +5,9 @@ Always learning, always evolving.
 
 
 ## Connect with me
-<a href="https://linkedin.com/in/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>
 
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
-  <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/-blue?style=for-the-badge&logo=Facebook" />
