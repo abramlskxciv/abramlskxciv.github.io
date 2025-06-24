@@ -19,7 +19,7 @@ Always learning, always evolving.
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />
 </a>
 <a href="https://github.com/abramlskxciv" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23E4405F.svg?&style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-grey.svg?&style=flat&logo=github&logoColor=white" />
 </a>
 
 
