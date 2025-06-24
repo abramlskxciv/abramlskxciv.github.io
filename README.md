@@ -10,6 +10,10 @@ Always learning, always evolving.
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="20" />
   LinkedIn
 </a>
+<a href="https://linkedin.com/in/yourhandle" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" />
+</a>
+
 
 <a href="https://linkedin.com/in/yourhandle" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
