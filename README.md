@@ -15,6 +15,9 @@ Always learning, always evolving.
 <a href="https://x.com/abramlskxciv" target="_blank">
   <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X" />
 </a>
+<a href="https://instagram.com/abramlskxciv" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white" />
+</a>
 <a href="https://github.com/abramlskxciv" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github" />
 </a>
